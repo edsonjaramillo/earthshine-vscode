@@ -306,6 +306,13 @@
       }
     },
     {
+      "name": "Base: Variables",
+      "scope": "variable.other.object",
+      "settings": {
+        "foreground": "#aeaeae"
+      }
+    },
+    {
       "name": "Base: Keywords",
       "scope": "keyword,storage.type,storage.modifier,keyword.operator.new",
       "settings": {
