@@ -194,6 +194,7 @@
     "settings.focusedRowBackground": "#f5f5f507",
     "settings.headerForeground": "#aeaeae",
     "sideBar.background": "#030303",
+    "sideBar.border": "#aeaeae33",
     "sideBar.dropBackground": "#383b3d",
     "sideBar.foreground": "#aeaeae",
     "sideBarSectionHeader.background": "#03030300",

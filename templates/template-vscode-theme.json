@@ -194,6 +194,7 @@
     "settings.focusedRowBackground": "{{WHITE}}07",
     "settings.headerForeground": "{{NEUTRAL}}",
     "sideBar.background": "{{BACKGROUND}}",
+    "sideBar.border": "{{NEUTRAL}}33",
     "sideBar.dropBackground": "#383b3d",
     "sideBar.foreground": "{{NEUTRAL}}",
     "sideBarSectionHeader.background": "{{BACKGROUND}}00",
