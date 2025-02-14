@@ -254,8 +254,8 @@
     "variable.builtin": {
       "foreground": "{{RED}}"
     },
-    "variable.readonly": {
-      "foreground": "{{RED}}"
+    "variable.readonly.local": {
+      "foreground": "{{NEUTRAL}}"
     },
     "variable.declaration.readonly": {
       "foreground": "{{NEUTRAL}}"
@@ -298,6 +298,13 @@
     }
   },
   "tokenColors": [
+    {
+      "name": "Base: Properties",
+      "scope": "variable.other.constant.property",
+      "settings": {
+        "foreground": "{{PURPLE}}"
+      }
+    },
     {
       "name": "Base: Keywords",
       "scope": "keyword,storage.type,storage.modifier,keyword.operator.new",

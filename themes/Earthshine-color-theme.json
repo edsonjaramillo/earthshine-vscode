@@ -254,8 +254,8 @@
     "variable.builtin": {
       "foreground": "#e35659"
     },
-    "variable.readonly": {
-      "foreground": "#e35659"
+    "variable.readonly.local": {
+      "foreground": "#aeaeae"
     },
     "variable.declaration.readonly": {
       "foreground": "#aeaeae"
@@ -298,6 +298,13 @@
     }
   },
   "tokenColors": [
+    {
+      "name": "Base: Properties",
+      "scope": "variable.other.constant.property",
+      "settings": {
+        "foreground": "#a272fe"
+      }
+    },
     {
       "name": "Base: Keywords",
       "scope": "keyword,storage.type,storage.modifier,keyword.operator.new",
