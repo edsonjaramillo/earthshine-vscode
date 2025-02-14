@@ -254,6 +254,12 @@
     "variable.builtin": {
       "foreground": "#e35659"
     },
+    "variable.readonly": {
+      "foreground": "#e35659"
+    },
+    "variable.declaration.readonly": {
+      "foreground": "#aeaeae"
+    },
     "module": {
       "foreground": "#e35659"
     },

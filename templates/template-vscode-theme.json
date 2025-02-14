@@ -254,6 +254,12 @@
     "variable.builtin": {
       "foreground": "{{RED}}"
     },
+    "variable.readonly": {
+      "foreground": "{{RED}}"
+    },
+    "variable.declaration.readonly": {
+      "foreground": "{{NEUTRAL}}"
+    },
     "module": {
       "foreground": "{{RED}}"
     },
