@@ -399,7 +399,7 @@
     },
     {
       "name": "JSX: Attributes",
-      "scope": "entity.other.attribute-name",
+      "scope": "entity.other.attribute-name,variable.other.property,variable.other.object.property",
       "settings": {
         "foreground": "{{PURPLE}}"
       }
